@@ -1,7 +1,8 @@
-# Stock-Price-Prediction-Model
+# Stock-Prediction-Model
 
 STOCK PRICE PREDICTION | July 2023
 
-▪ Implemented a ML model for Stock Price Prediction.
+Implemented a Machine Learning model for NIFTY50 Stock Trend Prediction using 4-year data. 
 
-▪ Utilized Python and ML Algorithms ,such as Regression and LSTM using historical data & enhancing data analysis
+Applied Machine Learning Algorithms such as GWO, GBC, and RFC.
+
