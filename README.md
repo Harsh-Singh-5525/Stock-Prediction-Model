@@ -2,7 +2,6 @@
 
 STOCK PRICE PREDICTION | July 2023
 
-Implemented a Machine Learning model for NIFTY50 Stock Trend Prediction using 4-year data. 
-
-Applied Machine Learning Algorithms such as GWO, GBC, SVM and RFC.
-
+• Built ML/DL Frameworks for NIFTY50 Stock Trend Prediction & used 4+ years of historical data for better model reliability.
+• Applied ML models like GWO, GBC, SVM, LR, and RFC with feature engineering improving accuracy by 15%.
+• Used data visualization tools to present insights for trend analysis and better decision-making
