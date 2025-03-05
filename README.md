@@ -1,4 +1,4 @@
-STOCK PRICE PREDICTION
+STOCK TREND PREDICTION
 
 • Built ML/DL Frameworks for NIFTY50 Stock Trend Prediction & used 4+ years of historical data for better model reliability.
 
